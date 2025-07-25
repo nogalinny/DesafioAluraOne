@@ -21,11 +21,7 @@ Este projeto é uma aplicação web simples de **Amigo Secreto**, desenvolvida c
 
 2. Acesse a pasta do projeto:
 
-
 3. Abra o arquivo `index.html` no navegador.
-
-## Estrutura dos Arquivos
-
 
 ## Contribuição
 
